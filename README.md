@@ -26,10 +26,10 @@ npm run pack
 
 
 ## Demo
-
+<!-- 
 ![](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/electron-login.png)
 
-![](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/electron-admin.gif)
+![](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/electron-admin.gif) -->
 
 
 ## Download
